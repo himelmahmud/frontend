@@ -1,0 +1,40 @@
+.bg-black{
+    background-color:rgb(39, 39, 39);
+}
+
+.headerParagraph{
+    color: #788078;
+}
+
+.navbox{
+    background-color: #bdbdbd;
+    border-radius: 5px;
+    /* border: 1px solid #788078; */
+}
+
+.nav-item-color{
+    color: black;
+    line-height: 40px;
+}
+
+.bl-1{
+    border-left: 1px solid #9F9F9F;
+}
+
+.text-black{
+    color: black;
+}
+.text-black:hover{
+    color: black;
+}
+
+.list-style{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.fs-7{
+   font-size: 10px; 
+}
+
